@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace OOP_Odev1
 {
-    class masa
+    class c_masa
     {
         public double yukseklik;
         public double genislik;
         public string renk;
     }
-    class dumbell{
+    class c_dumbell{
         public double kg;
         public string renk;
         public bool agirlik_arttirma;
     }
 
-    class ayakkabi
+    class c_ayakkabi
     {
         public double numara;
         public string renk;
@@ -26,71 +26,71 @@ namespace OOP_Odev1
 
     }
 
-    class kulaklik
+    class c_kulaklik
     {
         public decimal fiyat;
         public string renk;
         public bool kablolu_mu;
     }
-    class hali{
+    class c_hali{
         public double en;
         public double boy;
         public string renk;
     }
-    class kolonya
+    class c_kolonya
     {
         public decimal fiyat;
         public string aroma;
         public double litre;
     }
-    class pantolon
+    class c_pantolon
     {
         public decimal fiyat;
         public string renk;
         public string beden;
 
     }
-    class canta
+    class c_canta
     {
         public decimal fiyat;
         public string renk;
         public string marka;
     }
-    class atlamaipi
+    class c_atlamaipi
     {
         public decimal fiyat;
         public string renk;
         public double boy;
     }
-    class mousepad
+    class c_mousepad
     {
         public double en;
         public double boy;
     }
-    class usbkablo
+    class c_usbkablo
     {
         public double boy;
         public string renk;
         public bool type_c;
     }
 
-    class flashbellek
+    class c_flashbellek
     {
         public decimal fiyat;
         public string gbyte;
 
     }
-    class coklupriz
+    class c_coklupriz
     {
         public int kacbolmeli;
     }
-    class dolap
+    class c_dolap
     {
         public string renk;
         public double en;
         public double boy;
     }
-    class oyuncakayi
+    class c_oyuncakayi
     {
         public string renk;
     }
